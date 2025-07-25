@@ -12,7 +12,7 @@ public class Program
 
         // Input first primes set
         string firstPrompt = "Enter first set of numbers (comma-separated):";
-        List<int> numbers1 = GetInputSet(firstPrompt); //List<int> Numbers1 = new List<int>(); Numbers1 = GetInput(Prompt);
+        List<int> numbers1 = GetInputSet(firstPrompt); //List<int> numbers1 = new List<int>(); numbers1 = GetInput(Prompt);
         // Input second primes set
         string secondPrompt = "Enter second set of numbers (comma-separated):";
         List<int> numbers2 = GetInputSet(secondPrompt);
